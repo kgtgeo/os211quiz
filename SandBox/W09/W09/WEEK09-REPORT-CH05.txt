@@ -1,0 +1,212 @@
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/kgtgeo/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-0035
+ZCZC hostname kgtgeo
+ZCZC username kgtgeo
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 3511-887F Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 3479M
+ZCZC MaxMemory 153M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 154M
+ZCZC MaxMemory 159M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 3614-C7A8 Verified
+ZCZC MaxMemory 160M
+ZCZC MaxLFS 529M
+ZCZC MaxMemory 209M
+ZCZC MaxLFS 598M
+ZCZC MaxMemory 226M
+ZCZC MaxLFS 694M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 3717-C15A Verified
+ZCZC MaxLFS 809M
+ZCZC MaxLFS 811M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 3819-9CAA Verified
+ZCZC MaxLFS 812M
+ZCZC MaxLFS 817M
+ZCZC MaxLFS 823M
+ZCZC MaxLFS 827M
+ZCZC MaxROOT 3480M
+ZCZC MaxLFS 837M
+ZCZC MaxMemory 346M
+ZCZC MaxROOT 3482M
+ZCZC MaxMemory 477M
+ZCZC MaxLFS 881M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 3922-6E71 Verified
+ZCZC MaxLFS 896M
+ZCZC MaxLFS 916M
+ZCZC MaxLFS 943M
+ZCZC MaxLFS 1013M
+ZCZC MaxLFS 1042M
+ZCZC MaxLFS 1052M
+ZCZC MaxLFS 1067M
+ZCZC MaxLFS 1180M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4024-70E8 Verified
+ZCZC MaxLFS 1245M
+ZCZC MaxLFS 1301M
+ZCZC MaxLFS 1402M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4127-DD42 Verified
+ZCZC MaxLFS 1472M
+ZCZC MaxLFS 1498M
+ZCZC MaxLFS 1509M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4229-A7E5 Verified
+ZCZC MaxLFS 1510M
+ZCZC MaxLFS 1513M
+ZCZC MaxLFS 1516M
+ZCZC MaxLFS 1521M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4332-A4E0 Verified
+ZCZC MaxLFS 1534M
+ZCZC MaxLFS 1539M
+ZCZC MaxLFS 1541M
+ZCZC MaxLFS 1547M
+ZCZC MaxLFS 1550M
+ZCZC MaxLFS 1556M
+ZCZC MaxLFS 1561M
+ZCZC MaxLFS 1565M
+ZCZC MaxLFS 1573M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4436-0C42 Verified
+ZCZC MaxLFS 1575M
+ZCZC MaxLFS 1577M
+ZCZC MaxLFS 1581M
+ZCZC MaxLFS 1584M
+ZCZC MaxLFS 1591M
+ZCZC MaxLFS 1592M
+ZCZC MaxLFS 1594M
+ZCZC MaxLFS 1596M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4538-5625 Verified
+ZCZC MaxLFS 1597M
+ZCZC MaxLFS 1600M
+ZCZC MaxLFS 1610M
+ZCZC MaxLFS 1613M
+ZCZC MaxMemory 617M
+ZCZC MaxLFS 1621M
+ZCZC MaxMemory 747M
+ZCZC MaxLFS 1636M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4645-67F2 Verified
+ZCZC MaxLFS 1674M
+ZCZC MaxLFS 1694M
+ZCZC MaxMemory 908M
+ZCZC MaxLFS 1695M
+ZCZC MaxMemory 1144M
+ZCZC MaxLFS 1696M
+ZCZC MaxMemory 1404M
+ZCZC MaxLFS 1701M
+ZCZC MaxROOT 3494M
+ZCZC MaxLFS 1723M
+ZCZC MaxLFS 1744M
+ZCZC MaxLFS 1749M
+ZCZC MaxMemory 1604M
+ZCZC MaxLFS 1750M
+ZCZC MaxMemory 1614M
+ZCZC MaxLFS 1763M
+ZCZC MaxMemory 1766M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4807-2127 Verified
+ZCZC MaxLFS 1781M
+ZCZC MaxROOT 3499M
+ZCZC MaxMemory 2052M
+ZCZC MaxLFS 1791M
+ZCZC MaxROOT 3506M
+ZCZC MaxLFS 1801M
+ZCZC MaxROOT 3510M
+ZCZC MaxMemory 2098M
+ZCZC MaxLFS 1811M
+ZCZC MaxROOT 3519M
+ZCZC MaxLFS 1824M
+ZCZC MaxROOT 3521M
+ZCZC MaxLFS 1830M
+ZCZC MaxROOT 3590M
+ZCZC MaxLFS 1848M
+ZCZC MaxLFS 1922M
+ZCZC MaxLFS 1934M
+ZCZC MaxLFS 1944M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 4941-2464 Verified
+ZCZC MaxLFS 1974M
+ZCZC MaxLFS 1992M
+ZCZC MaxLFS 2005M
+ZCZC MaxLFS 2023M
+ZCZC MaxLFS 2041M
+ZCZC MaxLFS 2052M
+ZCZC MaxLFS 2061M
+ZCZC MaxLFS 2077M
+ZCZC MaxLFS 2088M
+ZCZC MaxLFS 2097M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5117-041F Verified
+ZCZC MaxLFS 2124M
+ZCZC MaxLFS 2140M
+ZCZC MaxLFS 2156M
+ZCZC MaxLFS 2168M
+ZCZC MaxLFS 2187M
+ZCZC MaxLFS 2199M
+ZCZC MaxLFS 2220M
+ZCZC MaxLFS 2232M
+ZCZC MaxLFS 2249M
+ZCZC MaxLFS 2263M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5247-CDE3 Verified
+ZCZC MaxLFS 2284M
+ZCZC MaxLFS 2295M
+ZCZC MaxLFS 2313M
+ZCZC MaxLFS 2329M
+ZCZC MaxLFS 2346M
+ZCZC MaxLFS 2356M
+ZCZC MaxLFS 2377M
+ZCZC MaxLFS 2385M
+ZCZC MaxLFS 2401M
+ZCZC MaxLFS 2413M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5408-7CF4 Verified
+ZCZC MaxLFS 2438M
+ZCZC MaxLFS 2452M
+ZCZC MaxLFS 2462M
+ZCZC MaxLFS 2468M
+ZCZC MaxLFS 2483M
+ZCZC MaxLFS 2495M
+ZCZC MaxLFS 2516M
+ZCZC MaxLFS 2563M
+ZCZC MaxLFS 2590M
+ZCZC MaxLFS 2604M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5621-3ED1 Verified
+ZCZC MaxLFS 2644M
+ZCZC MaxLFS 2737M
+ZCZC MaxMemory 2634M
+ZCZC MaxSwap 6M
+ZCZC MaxLFS 3189M
+ZCZC MaxMemory 2642M
+ZCZC MaxSwap 10M
+ZCZC MaxLFS 3640M
+ZCZC MaxMemory 2675M
+ZCZC MaxSwap 12M
+ZCZC MaxLFS 3701M
+ZCZC MaxMemory 2853M
+ZCZC MaxSwap 19M
+ZCZC MaxLFS 3704M
+ZCZC MaxLFS 3708M
+ZCZC MaxLFS 3716M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5740-C8AE Verified
+ZCZC MaxLFS 3721M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5842-F19A Verified
+ZCZC MaxLFS 3859M
+ZCZC MaxLFS 4617M
+ZCZC MaxLFS 4838M
+ZCZC MaxLFS 4839M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 5945-86D7 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0047-86DC Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0150-4B57 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0252-A1B9 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0354-BFD8 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0457-7D6F Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0559-7248 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0703-755C Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0806-CEAE Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 0911-A070 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1018-7A4C Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1121-E050 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1224-706D Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1329-D868 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1431-ED5F Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1533-B5B0 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1635-DDA0 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1737-2A86 Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1841-9CFB Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1943-41BE Verified

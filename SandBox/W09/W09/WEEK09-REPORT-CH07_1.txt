@@ -1,0 +1,20 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/kgtgeo/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1912
+ZCZC hostname kgtgeo
+ZCZC username kgtgeo
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1222-6B9C Verified
+ZCZC MaxLFS 3089M
+ZCZC MaxROOT 3480M
+ZCZC MaxMemory 151M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 159M
+ZCZC MaxMemory 161M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1335-3B42 Verified
+ZCZC MaxMemory 162M
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1440-F0EA Verified
+ZCZC verifyTokenn kgtgeoW09 kgtgeo 1544-9E3D Verified
